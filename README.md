@@ -2,7 +2,6 @@
 <div>
   <a href="https://github.com/kiqu3z">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kiqu3z&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img alt="pic" height="130em" style="border-radius:50px;" src="https://i.ibb.co/nkhRZpD/Exercito-no-BG.png?width=608&height=608">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiqu3z&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center" style="display: inline_block"><br>
