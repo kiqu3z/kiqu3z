@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Caique Andrade!
+# 👋 Olá, eu sou Caique!
 
 Sou formado em Ciência da Computação e tenho 24 anos. Meus hobbies incluem ler (livros e mangás), acompanhar o mundo das criptomoedas e testar novas tecnologias que facilitem o meu dia a dia. Atualmente, estou reconstruindo meu portfólio de projetos no GitHub após perder o acesso ao meu antigo perfil.
 
